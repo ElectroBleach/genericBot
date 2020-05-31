@@ -30,7 +30,7 @@ class funnySpam extends commando.Command {
                             break;
                         }
                         {
-                         message.channel.send("U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM U LIKE SPAM");
+                         message.channel.send("lol");
                          spamcount = spamcount + 1;
                         }
                     }
